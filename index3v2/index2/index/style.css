@@ -1,0 +1,63 @@
+html{overflow-x:hidden;}
+.logo{width: 50px;}
+h1{
+    font-size: 59px;
+    letter-spacing: 1px;
+    color: rgb(36, 41, 46);
+    font-family:Broadway;
+    text-align: center; 
+    
+}
+.linkedlist{font-size: 20px;}
+.container-fluid{background-color:bisque;}
+body{background-color: darkkhaki;}
+ol{
+    background-color: bisque;
+}
+.text-danger{
+    background-color:beige;
+    font-size: x-larger;
+    color:red;
+}
+.text-danger2{
+    color:red;
+    background-color:rgb(157, 243, 161);
+    font-size: x-larger;
+}
+.text-danger3{
+    background-color:rgb(217, 245, 151);
+    font-size: x-larger;
+    color:red;
+}
+form{
+    background-color: bisque;}
+
+table{background-color:bisque;}
+h2{
+    font-size: large;
+    color:white;
+    text-align: center;
+    background-color: rgb(163, 159, 81);
+}
+th{font-size: small;
+text-align: center;}
+td {font-size: small;}
+img{max-width: 300px;}
+
+tbody tr:nth-child(odd)
+{
+    background-color: bisque;
+}
+tbody tr:nth-child(even){
+
+    background-color:white;
+
+  }
+footer{
+    background-color: rgb(238, 237, 170);
+}
+@media (min-width: 796px)
+{   
+
+    .logo{width:170px;}
+}
